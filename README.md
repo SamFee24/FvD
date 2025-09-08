@@ -40,12 +40,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Hoofdpagina  
-  <img ![Alt-tekst](readme-images/hoofd1.PNG) width="375px" alt="hoofdpagina">
-  <img src="readme-images/hoofd1.jpg" width="375px" alt="hoofdpagina">
+  ![Alt-tekst](readme-images/hoofd1.PNG) 
+  ![Alt-tekst](readme-images/hoofd2.PNG) 
+  ![Alt-tekst](readme-images/hoofd3.PNG) 
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Agenda  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  ![Alt-tekst](readme-images/agenda1.PNG) 
+  ![Alt-tekst](readme-images/agenda2.PNG) 
  
 </details>
 
