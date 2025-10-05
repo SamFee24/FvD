@@ -94,7 +94,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Ik liep nog een beetje achter, ik had alleen een breakdown schets gemaakt. De schets zag er goed uit, er moesten nog een paar dingen aangepast worden. Er moest nog een aparte screenshot gemaakt worden van de header want die stond er nog niet op. De icoontjes op de pagina zijn meestal SVG's. En er kan maar 1 navigatie op de pagina staan. Ik had er twee gebruikt, voor de header en footer. Dit moet daarom nog aangepast worden zodat de <nav> in de footer veranderd wordt naar linkjes in een <ul>.
+  Ik liep nog een beetje achter, ik had alleen een breakdown schets gemaakt. De schets zag er goed uit, er moesten nog een paar dingen aangepast worden. Er moest nog een aparte screenshot gemaakt worden van de header want die stond er nog niet op. De icoontjes op de pagina zijn meestal SVG's. En er kan maar 1 navigatie op de pagina staan. Ik had er twee gebruikt, voor de header en footer. Dit moet daarom nog aangepast worden zodat de nav in de footer veranderd wordt naar linkjes in een ul.
 
   ### Verslag van meeting
   - Aparte screenshots maken van de header voor op de breakdownschets.
