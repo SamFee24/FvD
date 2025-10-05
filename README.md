@@ -71,7 +71,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-   ![Alt-tekst](readme-images/huiswerk - Frame 1.jpg)
+   ![Alt-tekst](readme-images/downbreakschets.pdf)
     
 
 </details>
